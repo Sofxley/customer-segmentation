@@ -6,9 +6,11 @@ _I also recommend reading the notebook on Kaggle._
 
 
 ## SUMMARY
-* Identified seven customer segments and performed customer profiling for each one of the segments by creating general portraits of customers from each group, which can help the store better understand their customers, increasing their business revenue and customer retention.
-* Conducted segmentation studies for the physical FMCG store customer dataset that comprised demographic data of 2000 customers.
-* Utilized four unsupervised clustering algorithms, namely K-Means, DBSCAN, Gaussian Mixture, and Agglomerative Clustering, to pinpoint the appropriate number of customer groups for the dataset.
+* Conducted segmentation studies on a physical FMCG store customer dataset, which included demographic data of 2000 customers, to identify seven distinct customer segments and perform customer profiling.
+* Developed general customer portraits for each segment, enhancing the store's understanding of customer preferences and needs, leading to increased business revenue and customer retention.
+* Leveraged data insights to anticipate age ranges within each customer group based on education, providing valuable context for subsequent clustering analysis.
+* Uncovered the underlying population structure and gauged the store's popularity with different customer types through insightful visualizations.
+* Utilized unsupervised clustering algorithms (K-Means, DBSCAN, Gaussian Mixture, and Agglomerative Clustering) to pinpoint the optimal number of customer groups.
 
 ## RESULTS
 
